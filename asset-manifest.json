@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://orbs-network.github.io/v2-matic-event-explorer/static/css/main.d4b27514.chunk.css",
+    "main.js": "https://orbs-network.github.io/v2-matic-event-explorer/static/js/main.8bd836b5.chunk.js",
+    "main.js.map": "https://orbs-network.github.io/v2-matic-event-explorer/static/js/main.8bd836b5.chunk.js.map",
+    "runtime-main.js": "https://orbs-network.github.io/v2-matic-event-explorer/static/js/runtime-main.e0f2b145.js",
+    "runtime-main.js.map": "https://orbs-network.github.io/v2-matic-event-explorer/static/js/runtime-main.e0f2b145.js.map",
+    "static/js/2.3627cd71.chunk.js": "https://orbs-network.github.io/v2-matic-event-explorer/static/js/2.3627cd71.chunk.js",
+    "static/js/2.3627cd71.chunk.js.map": "https://orbs-network.github.io/v2-matic-event-explorer/static/js/2.3627cd71.chunk.js.map",
+    "index.html": "https://orbs-network.github.io/v2-matic-event-explorer/index.html",
+    "precache-manifest.10ddd978062b629b29961a6be0071f39.js": "https://orbs-network.github.io/v2-matic-event-explorer/precache-manifest.10ddd978062b629b29961a6be0071f39.js",
+    "service-worker.js": "https://orbs-network.github.io/v2-matic-event-explorer/service-worker.js",
+    "static/css/main.d4b27514.chunk.css.map": "https://orbs-network.github.io/v2-matic-event-explorer/static/css/main.d4b27514.chunk.css.map",
+    "static/js/2.3627cd71.chunk.js.LICENSE.txt": "https://orbs-network.github.io/v2-matic-event-explorer/static/js/2.3627cd71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0f2b145.js",
+    "static/js/2.3627cd71.chunk.js",
+    "static/css/main.d4b27514.chunk.css",
+    "static/js/main.8bd836b5.chunk.js"
+  ]
+}
