@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://orbs-network.github.io/v2-matic-event-explorer/precache-manifest.10ddd978062b629b29961a6be0071f39.js"
+  "https://orbs-network.github.io/v2-matic-event-explorer/precache-manifest.138c9e1e14b38994b6db693c74d0eefd.js"
 );
 
 self.addEventListener('message', (event) => {
